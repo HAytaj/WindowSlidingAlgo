@@ -4,6 +4,7 @@ C:\Users\ayhes\source\repos\WindowSlidingAlgoSolution\WindowSlidingAlgo\bin\Debu
 C:\Users\ayhes\source\repos\WindowSlidingAlgoSolution\WindowSlidingAlgo\bin\Debug\netcoreapp3.1\WindowSlidingAlgo.runtimeconfig.dev.json
 C:\Users\ayhes\source\repos\WindowSlidingAlgoSolution\WindowSlidingAlgo\bin\Debug\netcoreapp3.1\WindowSlidingAlgo.dll
 C:\Users\ayhes\source\repos\WindowSlidingAlgoSolution\WindowSlidingAlgo\bin\Debug\netcoreapp3.1\WindowSlidingAlgo.pdb
+C:\Users\ayhes\source\repos\WindowSlidingAlgoSolution\WindowSlidingAlgo\obj\Debug\netcoreapp3.1\WindowSlidingAlgo.csprojAssemblyReference.cache
 C:\Users\ayhes\source\repos\WindowSlidingAlgoSolution\WindowSlidingAlgo\obj\Debug\netcoreapp3.1\WindowSlidingAlgo.AssemblyInfoInputs.cache
 C:\Users\ayhes\source\repos\WindowSlidingAlgoSolution\WindowSlidingAlgo\obj\Debug\netcoreapp3.1\WindowSlidingAlgo.AssemblyInfo.cs
 C:\Users\ayhes\source\repos\WindowSlidingAlgoSolution\WindowSlidingAlgo\obj\Debug\netcoreapp3.1\WindowSlidingAlgo.csproj.CoreCompileInputs.cache

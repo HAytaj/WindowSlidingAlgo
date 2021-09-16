@@ -8,7 +8,6 @@ namespace Tasks
 
         /*
          
-         I pasted my code here since I could not find which repository link I had to paste to "Text Reply".
          
          Please run this code in Visual Studio. You will see instructions in the console as You proceed.
 
